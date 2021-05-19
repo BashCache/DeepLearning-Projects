@@ -1,3 +1,3 @@
 # DeepLearning-Projects
 
-CNN model for Fashion MNIST dataset
+3 Deep Learning Mini Projects on CNN, Transfer Learning, Text Processing
